@@ -7,7 +7,7 @@
 html5
 Javascript
 бібліотека brain.js https://brain.js.org/
-#### https://github.com/BrainJS/brain.js
+https://github.com/BrainJS/brain.js
 ```
 
 #### Використання:
